@@ -7,9 +7,11 @@
 
 ## About
 
-Building reliable, high-throughput backend systems at **Plasma** — focused on distributed architectures, event-driven pipelines, and scalable APIs. Started in IT, pivoted to software, and have been deep in the backend ever since.
+B.S. Software Engineering
 
-UTD grad (B.S. Software Engineering). Previously at **MicroAI** and **Cisco Systems**.
+Building reliable, high-throughput backend systems, focused on distributed architectures, event-driven pipelines, and scalable APIs.
+
+Previously at **MicroAI** and **Cisco Systems**.
 
 ---
 
